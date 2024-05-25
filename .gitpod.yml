@@ -1,0 +1,4 @@
+# .gitpod.yml
+tasks:
+  - init: npm install
+    command: npm start
